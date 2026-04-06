@@ -1,0 +1,6 @@
+transaction_id,customer_id,sender,receiver,amount,country,channel,timestamp
+1,1001,A001,B001,5000,PL,online,2024-01-01 10:00:00
+2,1002,A002,B003,120000,CY,branch,2024-01-01 10:05:00
+3,1001,A003,B002,300,PL,online,2024-01-01 10:10:00
+4,1003,A004,B004,75000,UA,online,2024-01-02 09:15:00
+5,1004,A005,B006,200,PL,atm,2024-01-02 11:20:00
