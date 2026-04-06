@@ -19,6 +19,11 @@ institutions.
 
 ---
 
+## Sample Results
+![Advanced financial dashboard](docs/images/advanced_financial_dashboard_navy.png)  
+![Risk dashboard](charts/docs/images/risk_dashboard_burgundy_gold.png)
+---
+
 ## Technologies Used
 
 - Python Analytics: pandas, numpy, scikit-learn, networkx, matplotlib, seaborn
